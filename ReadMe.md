@@ -11,7 +11,7 @@ This script forcibly stops any processes named "ms-teams" when the -Force switch
 
 ## Notes
 - **File Name**: ClearTeamsCacheForAllUsers.ps1
-- **Author**: Devon
+- **Author**: DPO
 - **Version**: 1.0
 - **Date**: May 8, 2024
 
